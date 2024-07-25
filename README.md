@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Administrator@User -2023EVXAI MINGW64 ~/Downloads/team_test/a (netflex/index)
 $ git checkout main
@@ -180,3 +181,6 @@ To https://github.com/lutino12/team_test.git
 
 Administrator@User -2023EVXAI MINGW64 ~/Downloads/team_test/a (main)
 $
+=======
+sub
+>>>>>>> 5afb02d860dbcc2798e855aac10effac4248bb87
